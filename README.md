@@ -2,9 +2,15 @@
 
 ### Function summary
 
-##### 1
-
 ```R
 str()
 summary()
+```
+
+
+
+### Notes
+
+```R
+data.frame[, colnames] # , aka python :
 ```
